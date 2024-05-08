@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Frontend Developer**
 
-- 💬 Ask me about **HTML|Css|JS**
+- 💬 Ask me about **HTML|CSS|JS**
 
 - 📫 How to reach me **alishbaansari997@gmail.com**
 
