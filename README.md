@@ -1,4 +1,4 @@
- ![logo](https://github.com/alishbaansari123/alishbaansari123/blob/main/github%20banner.png)
+ ![logo](https://github.com/alishbaansari123/alishbaansari123/blob/main/banner.png))
   <h1 align="center">Hi 👋, I'm Alishba Ansari</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
